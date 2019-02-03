@@ -2,10 +2,10 @@
 
 ## Index
 
->[Overview](#Overview)
->[World space effect](#WorldSpaceEffect)
->[Camera-based effect](#CameraBasedEffect)
->[Update note](#UpdateNode)
+>[Overview](#Overview)  
+>[World space effect](#WorldSpaceEffect)  
+>[Camera-based effect](#CameraBasedEffect)  
+>[Update note](#UpdateNode)  
 
 ## <a name="Overview">Overview</a>
 
